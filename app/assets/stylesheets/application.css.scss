@@ -843,3 +843,10 @@ ul#faq_answer {
   margin: 2px;
   height: 48px;
 }
+
+#pages {
+  background-color: white;
+  // margin-top: 20px;
+  @extend .container;
+  // height: auto;
+}
